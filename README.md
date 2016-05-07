@@ -10,3 +10,5 @@ This is course project for Getting and Cleaning Data as a Coursera course under 
 <li>Converts the "activity" and "subject" columns into factors</li>
 <li>Creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol>
+
+#This repo also includes Quiz Solutions
